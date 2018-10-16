@@ -8,3 +8,7 @@ GUI for iSAFE databases anotation. BTP Project.
 #6  Angry
 #7  Uncertain
 #8  Noemotion
+
+Language Used : Python
+
+GUI Library : PyQT5
